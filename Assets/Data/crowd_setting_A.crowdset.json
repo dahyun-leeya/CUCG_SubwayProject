@@ -1,0 +1,54 @@
+{
+    "stream_params": [
+        {
+            "inflow_pos": {
+                "x": 68.56890869140625,
+                "y": 0.0,
+                "z": 1.6634521484375
+            },
+            "inflow_normal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "outflow_pos": {
+                "x": 82.62684631347656,
+                "y": 1.5,
+                "z": -6.623756408691406
+            },
+            "outflow_normal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "inflow_radius": 1.0,
+            "outflow_radius": 2.0,
+            "inflow_rate": 1.0
+        },
+        {
+            "inflow_pos": {
+                "x": 19.52734375,
+                "y": 0.0,
+                "z": 2.49761962890625
+            },
+            "inflow_normal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "outflow_pos": {
+                "x": 97.3459243774414,
+                "y": 1.5,
+                "z": -4.518047332763672
+            },
+            "outflow_normal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "inflow_radius": 0.5,
+            "outflow_radius": 3.5,
+            "inflow_rate": 1.0
+        }
+    ]
+}
